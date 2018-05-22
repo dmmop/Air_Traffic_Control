@@ -1,4 +1,4 @@
-name := "Apache Spark with Scala"
+name := "Air Traffic Controll"
 
 version := "0.1"
 
