@@ -1,5 +1,3 @@
-package flight_control
-
 import java.io.PrintWriter
 
 import org.apache.spark.{SparkConf, SparkContext}
